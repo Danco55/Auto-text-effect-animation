@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+}
+
+.container {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 31vh;
+  align-items: center;
+  background-color: #7b1d13;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border: 5px rgb(43, 50, 129) solid;
+  color: black;
+}
+
+.container2 {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 31vh;
+  align-items: center;
+  background-color: darkblue;
+  font-family: 'Times New Roman', Times, serif;
+  border: 5px green solid;
+  color: rgb(189, 189, 50);
+}
+
+.container3 {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 31vh;
+  align-items: center;
+  background-color: rgb(101, 8, 52);
+  font-family: 'Times New Roman', Times, serif;
+  border: 5px rgb(43, 50, 129) solid;
+  color: rgb(199, 138, 197);
+}
+
+.container:hover {
+  background-color: black;
+  color: white;
+}
+
+.container2:hover {
+  background-color: rgb(75, 6, 6);
+  color: coral;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
+
+.container3:hover {
+  background-color: rgb(12, 6, 42);
+  color: rgb(75, 6, 6,);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
