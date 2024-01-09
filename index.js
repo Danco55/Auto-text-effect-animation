@@ -44,7 +44,7 @@ function updateText2() {
   if (characterIndex2 === careers2[careerIndex2].length) {
     careerIndex2++;
     characterIndex2 = 0;
-  }
+  } 
 
   if (careerIndex2 === careers2.length) {
     careerIndex2 = 0;
