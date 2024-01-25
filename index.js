@@ -8,7 +8,7 @@ const container3El = document.querySelector(".container3");
 const careers3 = ["Programming", "Block chain development", "Chess", "sport", "reading"];
 
 
-let careerIndex = 0;
+let careerIndex = 0; 
 let characterIndex = 0;
 let careerIndex2 = 0;
 let characterIndex2 = 0;
