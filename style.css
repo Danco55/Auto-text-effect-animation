@@ -7,7 +7,7 @@ body {
   display: flex;
   justify-content: center;
   height: 31vh;
-  align-items: center;
+  align-items: center; 
   background-color: #7b1d13;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   border: 5px rgb(43, 50, 129) solid;
