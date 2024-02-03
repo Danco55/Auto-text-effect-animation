@@ -14,6 +14,7 @@ let careerIndex2 = 0;
 let characterIndex2 = 0;
 let careerIndex3 = 0;
 let characterIndex3 = 0;
+let;
 
 
 updateText();
